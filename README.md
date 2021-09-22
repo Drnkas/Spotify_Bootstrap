@@ -2,6 +2,8 @@
 
 This is another one of my projects using Bootstrap, this project has responsive designs for all screen types
 
+You can browse through this link: https://drnkas.github.io/Spotify_Bootstrap/
+
 # large devices (desktops, 992px and up)
 
 <p align="center">
@@ -45,3 +47,5 @@ This is another one of my projects using Bootstrap, this project has responsive 
 <p align="center">
 <img src="img/spt..3.png"/>
 </p>
+
+
